@@ -1,1 +1,2 @@
-# odin-recipes
+The Odin Project final lesson from the html fundations course, represent a project utilizing everything I learned from the beginning of the fundations course till the final lesson in html category.
+The project is about makeing 1 html file (index.html) and anchor in him 3 links to other 3 different html files (Lasagna.html, Pizza.html, Schnitzel.html), the 3 html files latter mentioned have almost identical elements, the difference being the numer of them, they are formed from heading, paragrahps, anchor links, images.     
