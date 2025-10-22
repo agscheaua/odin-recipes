@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+
+.recipes_mainpage{
+    width: 400px;
+    border: 2px solid red;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+ul{
+    list-style: none;
+}
