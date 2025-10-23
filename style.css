@@ -5,17 +5,51 @@
     margin: 0;
     border: 0;
     padding: 0;
+    font-family: "Times New Roman", serif;
 }
 
 
-.recipes_mainpage{
-    width: 400px;
-    border: 2px solid red;
-    padding: 10px;
+.mainpage_recipes{
+    width: 700px;
+    height: 250px;
+    border: 5px solid darkred;
+    border-top: 0px;
+    padding: 0px 0px 20px 0px;
     text-align: center;
     margin: auto;
+    font-size: 30px;
+    background-color: yellowgreen;
+    color: rebeccapurple;
+}
+
+.mainpage_title{
+    border: solid darkred;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin: 10px 0px 30px 0px;
 }
 
 ul{
-    list-style: none;
+    background-color: yellowgreen;
 }
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 6px;
+    color: aqua;
+    background-color: yellowgreen;
+}
+
+h3{
+    border: 2.5px solid darkred;
+    margin: 0px 0px 20px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    padding: 10px 0px;
+    color:aqua;
+    background-color: yellowgreen;
+}
+
