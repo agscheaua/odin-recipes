@@ -1,0 +1,56 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.food_recipe{
+    width: 500px;
+    border: 2px solid darkred;
+    color: darkred;
+    text-align: center;
+    margin: auto;
+}
+
+.title_recipe{
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 2px solid darkred;
+    background-color: pink;
+}
+
+.img_recipe{
+    background-color: pink;
+    margin-bottom: -2px;
+}
+
+.description_recipe{
+    margin: 0x 0px 20px 0px;
+    text-align: left;
+    padding: 0px 0px 10px 50px;
+    border-top: 2p solid darkred;
+    border-bottom: 2px solid darkred;
+    background-color: pink;
+    
+}
+
+.description_recipe h2{
+    text-align: center;
+}
+
+
+.ingredients_recipe ul p{
+    outline: 2px solid blue;
+}
+
+ul li{
+    list-style: none;
+}
+
+ol li{
+    list-style: none;
+}
